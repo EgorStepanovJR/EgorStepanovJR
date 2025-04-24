@@ -25,19 +25,19 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gautamprajapat8&label=Profile%20views&color=0e75b6&style=flat" alt="gautamprajapat8" />
-  <img src="https://img.shields.io/github/followers/gautamprajapat8?label=Github%20Connection&style=flat" alt="Github Followers" />
+  <img src="https://komarev.com/ghpvc/?username=EgorStepanovJR&label=Profile%20views&color=0e75b6&style=flat" alt="EgorStepanovJR" />
+  <img src="https://img.shields.io/github/followers/EgorStepanovJR?label=Github%20Connection&style=flat" alt="Github Followers" />
 </p> 
 
 ## 👨‍💻 **About Me:**
-<a href="https://gautamprajapat8.github.io/" target="_blank" rel="noreferrer"> <img align="right" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Other/code.gif" width="450" height="280"/> </a> 
+<a href="https://EgorStepanovJR.github.io/" target="_blank" rel="noreferrer"> <img align="right" src="https://github.com/EgorStepanovJR/Public_Icon/blob/main/Other/code.gif" width="450" height="280"/> </a> 
 
 
-- 💻 I’m currently working as a **Backend Developer** at Tech Binary (Blueberry Group) with **1.5+ years of experience** in developing web applications.
-- 🌱 I’m currently enhancing my expertise in **ASP.NET Core, ASP.NET MVC, C#, SQL Server (MSSQL), and JavaScript (jQuery, basic AngularJS)**.
-- 💬 Ask me about **Data Structures & Algorithms (DSA), Back-End Technologies, and  Front-End Technologies.**
-- 📄 Download my [**Resume Here**](https://github.com/gautamprajapat8/gautamprajapat8.github.io/blob/master/resources/Gautam_Kumar_Resume.pdf) ⬇️
-- 💼 Check out my [**Portfolio**](https://gautamprajapat8.github.io/) 👤
+- 💻 I’m currently learning as a **Backend Developer** on JavaRush
+- 🌱 I’m currently enhancing my expertise in Spring.
+- 💬 Ask me what I had for breakfast, and I'll answer with coffee.
+- 📄 Download my [**Resume Here**](Здесь будет ссылка на резюме) ⬇️
+- 💼 Check out my [**Portfolio**](https://EgorStepanovJR.github.io/) 👤
 
 
 
