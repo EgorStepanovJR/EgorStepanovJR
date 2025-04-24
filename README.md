@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Egor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EBDFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile.;i'm+Java+Backend+Developer.+	&#128187;;1001000100001100110100000" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EBDFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;i'm+Java+Backend+Developer.;;1001000100001100110100000" alt="Typing SVG" /></a>
 <!--
 **EgorStepanovJR/EgorStepanovJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
