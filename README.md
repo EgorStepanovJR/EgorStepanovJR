@@ -81,10 +81,10 @@ Here are some ideas to get you started:
 ## 📊 **GitHub Stats:**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gautamprajapat8&show_icons=true&locale=en" alt="gautamprajapat8" />
-  <img width="32%" height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamprajapat8&show_icons=true&locale=en&layout=compact" alt="gautamprajapat8" />
-  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com/?user=gautamprajapat8" alt="gautamprajapat8" />
-  <img width="65%" height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=gautamprajapat8&bg_color=ffffff&color=1c172b&line=4162c3&point=403d3d&area=true&hide_border=true" alt="gautamprajapat8" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EgorStepanovJR&show_icons=true&locale=en" alt="EgorStepanovJR" />
+  <img width="32%" height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=EgorStepanovJR&show_icons=true&locale=en&layout=compact" alt="EgorStepanovJR" />
+  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com/?user=EgorStepanovJR" alt="EgorStepanovJR" />
+  <img width="65%" height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=EgorStepanovJR&bg_color=ffffff&color=1c172b&line=4162c3&point=403d3d&area=true&hide_border=true" alt="EgorStepanovJR" />
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </p>
 
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 ## ✍️ **Random Dev Quote:**
 <p align="center">
   <img width="52%" height="160" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" /> 
-  <img width="47%" height="160" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/eat_sleep_code_repeat.jpg" />   
+  <img width="47%" height="160" src="https://github.com/EgorStepanovJR/Public_Icon/blob/main/ProgrammingLanguages/eat_sleep_code_repeat.jpg" />   
 </p>
 
 
