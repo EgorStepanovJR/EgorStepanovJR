@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Egor</a> 
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://github.com/gautamprajapat8" target="_blank">Egor Stepanov</a> 
+</h1>
+
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EBDFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;i'm+Java+Backend+Developer.;1001000100001100110100000" alt="Typing SVG" /></a>
@@ -6,12 +9,20 @@
 <h3 align="center">  	&#8220;What you do today determines who you will be tomorrow&#8221; </h3>
 <h4 align="center">Здест еще что-то будет</h4>
 
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://github.com/gautamprajapat8" target="_blank">Gautam Kumar</a> 
-</h1>
+<!--
+**EgorStepanovJR/EgorStepanovJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h3 align="center">  	&#8220;What you do today determines who you will be tomorrow&#8221; </h3>
-<h4 align="center">.NET Developer with 1.5+ years of experience in Web Development, currently working as a Backend Developer at Tech Binary (Blueberry Group). Skilled in Backend Technologies like ASP.NET Core, ASP.NET MVC, C#, SQL Server, Java, Spring Boot, and MySQL, with a solid understanding of Frontend Technologies such as HTML, CSS, and JavaScript. Proficient in using jQuery and AngularJS for data binding and DOM manipulation. Recently earned my Master of Computer Applications (MCA) from Indira Gandhi National Open University and passionate about continuously learning and adapting to new technologies.</h4>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gautamprajapat8&label=Profile%20views&color=0e75b6&style=flat" alt="gautamprajapat8" />
@@ -93,20 +104,3 @@
 
 
 <h3 align="left">Stay Happy, Stay Motivated <img src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt="Happy" width="50px"></h3>
-
- 
-
-<!--
-**EgorStepanovJR/EgorStepanovJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
