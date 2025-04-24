@@ -47,27 +47,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
+
 ## 💻 **Tech Stack & Tools:**
 <p align="left"> 
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/dotnet.png" alt="ASP.NET" title="ASP.NET" width="53" height="53"/> </a>  
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/c-sharp.png" alt="C#" title="C#" width="53" height="53"/> </a> 
-    <a href="https://learn.microsoft.com/en-in/ssms/sql-server-management-studio-ssms" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/sql-server.png" alt="Mssql" title="MsSQL" width="55" height="55"/> </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/java.png" alt="java" title="Java" width="55" height="55"/></a>
     <a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/hibernate.png" alt="hibernate" title="Hibernate" width="55" height="55"/> </a> 
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/springBoot.png" alt="spring" title="Spring Boot" width="53" height="53"/> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/mysql.png" alt="mysql" title="MySQL" width="55" height="55"/> </a> 
     <a href="https://www.postman.com/what-is-an-api/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/api.png" alt="REST API" title="REST API" width="55" height="55"/> </a> 
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Software/postman.png" alt="Postman API" title="Postman API"   width="55" height="55"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/html.png" alt="html5" title="HTML5" width="55" height="55"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/css.png" alt="css3" title="CSS" width="55" height="55"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/javaScript.png" alt="javascript" title="JavaScript" width="50" height="50"/>     </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Software/git.png" alt="git" title="Git Hub" width="55" height="55"/> </a> 
-    <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/C.png" alt="c" title="C" width="55" height="55"/> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/C%2B%2B.png" alt="cplusplus" title="C++" width="55" height="55"/> </a> 
-    <a href="https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/Data_Structures.png" alt="DSA" title="Data_Structures" width="55" height="55"/> </a> 
-    <a href="https://platform.openai.com/docs/guides/prompt-engineering" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/PromptEngineering.png" alt="PromptEngineering" title="PromptEngineering" width="55" height="55"/> </a> 
-</p> -->
 
 
 ## 🌐 **Connect with Me:**
