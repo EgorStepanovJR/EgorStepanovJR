@@ -9,21 +9,6 @@
 <h3 align="center">  	&#8220;What you do today determines who you will be tomorrow&#8221; </h3>
 <h4 align="center">Здест еще что-то будет</h4>
 
-<!--
-**EgorStepanovJR/EgorStepanovJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=EgorStepanovJR&label=Profile%20views&color=0e75b6&style=flat" alt="EgorStepanovJR" />
   <img src="https://img.shields.io/github/followers/EgorStepanovJR?label=Github%20Connection&style=flat" alt="Github Followers" />
@@ -48,7 +33,20 @@ Here are some ideas to get you started:
       <img src="https://github.githubassets.com/pinned-octocat.svg" alt="GitHub" width="30" height="25">
    </a>
 
+<!--
+**EgorStepanovJR/EgorStepanovJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 ## 💻 **Tech Stack & Tools:**
 <p align="left"> 
@@ -75,11 +73,8 @@ Here are some ideas to get you started:
 
 ## 🌐 **Connect with Me:**
 <p align="left">
-  <a href="mailto:gautamk1336@gmail.com" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/email.png" alt="gautamprajapat8" height="40" width="40" /></a>
-  <a href="https://linkedin.com/in/gautamprajapat8" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/linkedin.png" alt="gautamprajapat8" height="40" width="40" /></a>
-  <a href="https://www.reddit.com/user/gautamprajapat8" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/media.png" alt="gautamprajapat8" height="40" width="40" /></a>
-  <a href="https://www.facebook.com/gautamprajapat8" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/facebook.png" alt="gautamprajapat8" height="40" width="40" /></a>
-  <a href="https://www.instagram.com/gautamprajapat.8/" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/instagram.png" alt="gautamprajapat8" height="40" width="40" /></a>
+  <a href="mailto:dankwal@mail.com" target="_blank"><img align="center" src="https://github.com/EgorStepanovJR/Public_Icon/blob/main/Social/email.png" alt="EgorStepanovJR" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/EgorStepanovJR" target="_blank"><img align="center" src="https://github.com/EgorStepanovJR/Public_Icon/blob/main/Social/linkedin.png" alt="EgorStepanovJR" height="40" width="40" /></a>
 </p>
 
 
