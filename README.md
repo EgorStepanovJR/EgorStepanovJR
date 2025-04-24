@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Egor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EBDFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;i'm+Java+Backend+Developer.;1001000100001100110100000" alt="Typing SVG" /></a>
+
+<h3 align="center">  	&#8220;What you do today determines who you will be tomorrow&#8221; </h3>
+<h4 align="center">Здест еще что-то будет</h4>
 
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://github.com/gautamprajapat8" target="_blank">Gautam Kumar</a> 
