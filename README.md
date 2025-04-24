@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ## 💻 **Tech Stack & Tools:**
 <p align="left"> 
   <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/dotnet.png" alt="ASP.NET" title="ASP.NET" width="53" height="53"/> </a>  
@@ -67,8 +67,7 @@ Here are some ideas to get you started:
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/C%2B%2B.png" alt="cplusplus" title="C++" width="55" height="55"/> </a> 
     <a href="https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/Data_Structures.png" alt="DSA" title="Data_Structures" width="55" height="55"/> </a> 
     <a href="https://platform.openai.com/docs/guides/prompt-engineering" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/PromptEngineering.png" alt="PromptEngineering" title="PromptEngineering" width="55" height="55"/> </a> 
-
-</p> 
+</p> -->
 
 
 ## 🌐 **Connect with Me:**
