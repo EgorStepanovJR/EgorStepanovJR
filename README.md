@@ -52,8 +52,6 @@ Here are some ideas to get you started:
     <a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/hibernate.png" alt="hibernate" title="Hibernate" width="55" height="55"/> </a> 
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/springBoot.png" alt="spring" title="Spring Boot" width="53" height="53"/> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/mysql.png" alt="mysql" title="MySQL" width="55" height="55"/> </a> 
-    <a href="https://www.postman.com/what-is-an-api/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/api.png" alt="REST API" title="REST API" width="55" height="55"/> </a> 
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Software/postman.png" alt="Postman API" title="Postman API"   width="55" height="55"/> </a> 
 
 
 ## 🌐 **Connect with Me:**
