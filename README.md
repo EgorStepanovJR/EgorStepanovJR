@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 -->
 
 ## 💻 **Tech Stack & Tools:**
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/java.png" alt="java" title="Java" width="55" height="55"/></a>
-    <a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/hibernate.png" alt="hibernate" title="Hibernate" width="55" height="55"/> </a> 
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/springBoot.png" alt="spring" title="Spring Boot" width="53" height="53"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/mysql.png" alt="mysql" title="MySQL" width="55" height="55"/> </a> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,idea,maven,mysql,postgres,hibernate,postman,docker,html,git,github,kubernetes,linkedin,stackoverflow" />
+  </a>
+</p>
 
 
 ## 🌐 **Connect with Me:**
