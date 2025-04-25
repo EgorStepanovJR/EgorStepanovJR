@@ -1,5 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=70&color=&color=008080&section=header&textBg=false"/>
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://github.com/gautamprajapat8" target="_blank">Egor Stepanov</a> 
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://github.com/EgorStepanovJR" target="_blank">Egor Stepanov</a> 
 </h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EBDFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;i'm+Java+Backend+Developer.;1001000100001100110100000" alt="Typing SVG" /></a>
