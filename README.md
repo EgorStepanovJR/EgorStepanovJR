@@ -27,7 +27,7 @@
 
 ## 📚 **My Projects:**
 - 👨‍💻 All of my projects are available on [**GitHub Repositories**](https://github.com/EgorStepanovJR?tab=repositories)
-   <a href="https://github.com/gautamprajapat8?tab=repositories" target="_blank">
+   <a href="https://github.com/EgorStepanovJR?tab=repositories" target="_blank">
       <img src="https://github.githubassets.com/pinned-octocat.svg" alt="GitHub" width="30" height="25">
    </a>
 
