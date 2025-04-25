@@ -24,35 +24,21 @@
 
 
 
-
 ## 📚 **My Projects:**
 - 👨‍💻 All of my projects are available on [**GitHub Repositories**](https://github.com/EgorStepanovJR?tab=repositories)
    <a href="https://github.com/EgorStepanovJR?tab=repositories" target="_blank">
       <img src="https://github.githubassets.com/pinned-octocat.svg" alt="GitHub" width="30" height="25">
    </a>
 
-<!--
-**EgorStepanovJR/EgorStepanovJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## 💻 **Tech Stack & Tools:**
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev"><br />
     <img src="https://skillicons.dev/icons?i=java,spring,idea,maven,mysql,postgres,hibernate,postman,docker,html,git,github,kubernetes,linkedin,stackoverflow" />
   </a>
+  <p align="center">
+  <b> Creative<b/> <br /><br />
+  <img src="https://skillicons.dev/icons?i=au,ai,ps,pr,figma" /> <br /> <br />
 </p>
-
 
 ## 🌐 **Connect with Me:**
 <p align="left">
@@ -68,5 +54,25 @@ Here are some ideas to get you started:
   <img width="32%" height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=EgorStepanovJR&show_icons=true&locale=en&layout=compact" alt="EgorStepanovJR" />
   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com/?user=EgorStepanovJR" alt="EgorStepanovJR" />
   <img width="65%" height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=EgorStepanovJR&bg_color=ffffff&color=1c172b&line=4162c3&point=403d3d&area=true&hide_border=true" alt="EgorStepanovJR" />
+
+  <!-- Commit Snake! -->  
+  <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg" 
+       alt"Check out my commit history!" />
+  </a>
+  
+  <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg" 
+         alt"Check out my commit history!" />
+  </a>
+  
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </p>
+
+<!-- Random Wallpaper -->
+<details open> 
+  <summary><h2>🌠 Wallpaper of the Day</h2></summary>
+<!--START_SECTION:update_image-->
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/mark-kirkpatrick-mk-landscape-05.jpg height=100% width=100% align=center alt=Daily Wallpaper />
+<!--END_SECTION:update_image-->
+</details>
