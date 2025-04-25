@@ -72,7 +72,6 @@ Here are some ideas to get you started:
   <img width="32%" height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=EgorStepanovJR&show_icons=true&locale=en&layout=compact" alt="EgorStepanovJR" />
   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com/?user=EgorStepanovJR" alt="EgorStepanovJR" />
   <img width="65%" height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=EgorStepanovJR&bg_color=ffffff&color=1c172b&line=4162c3&point=403d3d&area=true&hide_border=true" alt="EgorStepanovJR" />
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </p>
 
 
