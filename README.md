@@ -2,8 +2,6 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://github.com/gautamprajapat8" target="_blank">Egor Stepanov</a> 
 </h1>
 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EBDFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;i'm+Java+Backend+Developer.;1001000100001100110100000" alt="Typing SVG" /></a>
 
 <h3 align="center">  	&#8220;What you do today determines who you will be tomorrow&#8221; </h3>
@@ -15,7 +13,7 @@
 </p> 
 
 ## 👨‍💻 **About Me:**
-<a href="https://EgorStepanovJR.github.io/" target="_blank" rel="noreferrer"> <img align="right" src="https://github.com/EgorStepanovJR/Public_Icon/blob/main/Other/code.gif" width="450" height="280"/> </a> 
+<a href="https://gautamprajapat8.github.io/" target="_blank" rel="noreferrer"> <img align="right" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Other/code.gif" width="450" height="280"/> </a> 
 
 
 - 💻 I’m currently learning as a **Backend Developer** on JavaRush
@@ -74,15 +72,3 @@ Here are some ideas to get you started:
   <img width="65%" height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=EgorStepanovJR&bg_color=ffffff&color=1c172b&line=4162c3&point=403d3d&area=true&hide_border=true" alt="EgorStepanovJR" />
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </p>
-
-
-
-## ✍️ **Random Dev Quote:**
-<p align="center">
-  <img width="52%" height="160" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" /> 
-  <img width="47%" height="160" src="https://github.com/EgorStepanovJR/Public_Icon/blob/main/ProgrammingLanguages/eat_sleep_code_repeat.jpg" />   
-</p>
-
-
-
-<h3 align="left">Stay Happy, Stay Motivated <img src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt="Happy" width="50px"></h3>
