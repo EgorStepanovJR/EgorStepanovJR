@@ -69,11 +69,3 @@
   
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </p>
-
-<!-- Random Wallpaper -->
-<details open> 
-  <summary><h2>🌠 Wallpaper of the Day</h2></summary>
-<!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/mark-kirkpatrick-mk-landscape-05.jpg height=100% width=100% align=center alt=Daily Wallpaper />
-<!--END_SECTION:update_image-->
-</details>
