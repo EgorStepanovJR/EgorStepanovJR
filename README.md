@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EBDFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;i'm+Java+Backend+Developer.;1001000100001100110100000" alt="Typing SVG" /></a>
 
 <h3 align="center">  	&#8220;What you do today determines who you will be tomorrow&#8221; </h3>
-<h4 align="center">Здест еще что-то будет</h4>
+<h4 align="center">Здесь еще что-то будет</h4>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=EgorStepanovJR&label=Profile%20views&color=0e75b6&style=flat" alt="EgorStepanovJR" />
@@ -16,13 +16,13 @@
 ## 👨‍💻 **About Me:**
 <a href="https://gautamprajapat8.github.io/" target="_blank" rel="noreferrer"> <img align="right" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Other/code.gif" width="450" height="280"/> </a> 
 
-
+<p>
 - 💻 I’m currently learning as a **Backend Developer** on JavaRush. You can view my educational and personal projects in my repository.
 - 🌱 I'm currently studying Spring, but I won't stop there. After all, my goal is to become a great developer.
 - 💬 Ask me what I had for breakfast, and I'll answer with coffee.
 - 📄 Download my [**Resume Here**](Здесь будет ссылка на резюме) ⬇️
 - 💼 Check out my [**Portfolio**](https://EgorStepanovJR.github.io/) 👤
-
+</p>
 
 
 ## 📚 **My Projects:**
