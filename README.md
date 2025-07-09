@@ -16,14 +16,12 @@
 ## 👨‍💻 **About Me:**
 <a href="https://gautamprajapat8.github.io/" target="_blank" rel="noreferrer"> <img align="right" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Other/code.gif" width="450" height="280"/> </a> 
 
-<p>
+<hr>
 - 💻 I’m currently learning as a **Backend Developer** on JavaRush. You can view my educational and personal projects in my repository.
 - 🌱 I'm currently studying Spring, but I won't stop there. After all, my goal is to become a great developer.
 - 💬 Ask me what I had for breakfast, and I'll answer with coffee.
 - 📄 Download my [**Resume Here**](Здесь будет ссылка на резюме) ⬇️
 - 💼 Check out my [**Portfolio**](https://EgorStepanovJR.github.io/) 👤
-</p>
-
 
 ## 📚 **My Projects:**
 - 👨‍💻 All of my projects are available on [**GitHub Repositories**](https://github.com/EgorStepanovJR?tab=repositories)
